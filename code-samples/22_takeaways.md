@@ -1,6 +1,6 @@
 ```jsx
 
-1) Don’t ignore developer pain, we are our own end-user! 
+1) Don’t ignore developer pain, we are our own end-user!
   * We can, and should, make Feature Requests for ourselves.
 
 2) Reduce developer pain, increase productivity.
@@ -17,18 +17,16 @@ Git Repo with working examples in SFDX format - https://github.com/tsalb
   * https://github.com/tsalb/lwc-utils (LWC & Aura)
   * https://github.com/tsalb/flexipage-spa-tdx-19 (This presentation)
 
-SF Exchange Discord - https://sfxd.github.io/
+SF Exchange Discord - https://www.sfxd.org
 
-█▀▀▀▀▀█ ▀▀    ▀ ▀ █▀▀▀▀▀█
-█ ███ █ █▄ █▀██ ▀ █ ███ █
-█ ▀▀▀ █ ▀█▀▀▄ ▀▀█ █ ▀▀▀ █
-▀▀▀▀▀▀▀ ▀▄▀▄▀ █ █ ▀▀▀▀▀▀▀
-████▄▄▀▄█▄   ▄  ▄▀ ▄▀▀▀▄▀
- ▄ ▄▀▄▀█   ▄▄█  █ ▄█ ▄▄  
-▀ ▄█▀ ▀█ █▄█ ██▄▄▀███ ▀▀█
-▄▀▀▄▄▄▀▀█▄▀ █▀▄ ▄ █▄█ ▀▀▄
-   ▀▀▀▀▀▄▄▀▀▄▀  █▀▀▀█▀█▀█
-█▀▀▀▀▀█  █ ▀█▀▀▄█ ▀ █ ▀██
-█ ███ █ ▄▄█▀██ ▄███▀██▄█▄
-█ ▀▀▀ █ ██▄▀▀▀ ▀▀█▀ █ █▀ 
-▀▀▀▀▀▀▀ ▀   ▀ ▀▀  ▀▀▀▀▀▀▀
+ ▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄▄▄▄▄▄▄
+ █ ▄▄▄ █ ▄▄▀█▄ █ ▄▄▄ █
+ █ ███ █ █▀ ██ █ ███ █
+ █▄▄▄▄▄█ ▄▀█▀▄ █▄▄▄▄▄█
+ ▄▄▄▄  ▄ ▄▄▄▀▀▄  ▄▄▄ ▄
+ █▀██▀▀▄█ ▄█▀ ▄ ▄▀█▀██
+ ▄██  ▀▄▄█▄▀█▀ ▄▀▄█ ▀▄
+ ▄▄▄▄▄▄▄ ▀  █▀██ █
+ █ ▄▄▄ █  ██ ▄█ ▄█▀██▀
+ █ ███ █ █ █ █▀▀▄  ▄▀
+ █▄▄▄▄▄█ █▄▀█ ██ ▀█▄ ▀
